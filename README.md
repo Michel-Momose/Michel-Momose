@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-momose&label=Profile%20views&color=0e75b6&style=flat" alt="michel-momose" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michel-momose" alt="michel-momose" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando em um projeto educacional, o **API**
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Michel-Momose?tab=projects](https://github.com/Michel-Momose?tab=projects)
