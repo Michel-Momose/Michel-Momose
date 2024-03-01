@@ -8,7 +8,7 @@
 
 💭 Currently diving into SQL, data analytics, and Java to enhance my skill set and knowledge base.
 
-👨‍💻 Some of My [Projects]((https://github.com/Michel-Momose?tab=repositories))
+👨‍💻 Some of My [Projects](https://github.com/Michel-Momose?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
