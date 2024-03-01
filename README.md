@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-momose&label=Profile%20views&color=0e75b6&style=flat" alt="michel-momose" /> </p>
 
-- 🔭 Atualmente estou trabalhando em um projeto educacional, o **API**
-
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Michel-Momose?tab=projects](https://github.com/Michel-Momose?tab=projects)
 
 <h3 align="left">Minhas Redes:</h3>
