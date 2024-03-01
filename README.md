@@ -1,9 +1,14 @@
-<h1 align="center">Olá 👋, me chamo Michel</h1>
-<h3 align="center">Estou trilhando minha carreira como desenvolvedor de software e analista de dados, atualmente cursando o 2 periodo do curso de Banco de Dados na Faculdade de Tecnologia do Estado de São Paulo em São José dos Campos</h3>
+<h1 align="center">Hi 👋, I'm Michel!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-momose&label=Profile%20views&color=0e75b6&style=flat" alt="michel-momose" /> </p>
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://github.com/Michel-Momose?tab=projects](https://github.com/Michel-Momose?tab=projects)
+👩🏻‍💻 Embarking on my journey to become a Software Engineer/Data Analyst.
+
+👩🏻‍🎓 Currently enrolled as a Database student at the Faculty of Technology of the State of São Paulo.
+
+💭 Currently diving into SQL, data analytics, and Java to enhance my skill set and knowledge base.
+
+👨‍💻 Some of My [Projects]((https://github.com/Michel-Momose?tab=repositories))
 
 <h3 align="left">Minhas Redes:</h3>
 <p align="left">
